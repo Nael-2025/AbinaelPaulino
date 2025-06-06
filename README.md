@@ -15,6 +15,3 @@
 - 🎯 Meu objetivo é criar interfaces bonitas, acessíveis e funcionais.
 - 🌱 Próximos passos: aprender **React** e boas práticas de design responsivo.
 
-## 📫 Onde me encontrar
-
-- Email: paulinoabinael@gmail.com
